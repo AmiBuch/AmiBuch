@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ami Buch</h1>
 <h3 align="center">Software Architect Padawan</h3>
 
-- 🔭 I’m currently working on **Multi-agent systems, Custom architectures for agentic ai applications, and a little bit of high performance computing**
+- 🔭 I’m currently working on **Multi-Agent Systems, custom architecture for Agentic AI applications, and a little bit of high performance computing**
 
-- 🌱 I’m currently learning **Agent orchestration, new languages**
+- 🌱 I’m currently learning **Agent Orchestration, Systems Programming Languages**
 
-- 👯 I’m looking to collaborate on **Agentic AI system, GPU programming**
+- 👯 I’m looking to collaborate on **Agentic AI systems, GPU programming**
 
-- 🤝 I’m looking for help with **Handling a raging caffeine addiction**
+- 🤝 I’m looking for help with **handling a raging caffeine addiction**
 
 - 💬 Ask me about **CUDA, anything AI**
 
